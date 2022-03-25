@@ -1,0 +1,5 @@
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqlinqintroduction.csproj.AssemblyReference.cache
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqlinqintroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqlinqintroduction.AssemblyInfoInputs.cache
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqlinqintroduction.AssemblyInfo.cs
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqlinqintroduction.csproj.CoreCompileInputs.cache

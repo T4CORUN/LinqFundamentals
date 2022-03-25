@@ -1,0 +1,16 @@
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.exe
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.deps.json
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.runtimeconfig.json
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.runtimeconfig.dev.json
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.dll
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\ref\linqintroduction.dll
+C:\Users\vnaw\Source\linqfundamentals\Introduction\bin\Debug\net5.0\linqintroduction.pdb
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.csproj.AssemblyReference.cache
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.AssemblyInfoInputs.cache
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.AssemblyInfo.cs
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.csproj.CoreCompileInputs.cache
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.dll
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\ref\linqintroduction.dll
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.pdb
+C:\Users\vnaw\Source\linqfundamentals\Introduction\obj\Debug\net5.0\linqintroduction.genruntimeconfig.cache

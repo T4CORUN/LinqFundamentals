@@ -1,0 +1,16 @@
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.csproj.AssemblyReference.cache
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.AssemblyInfoInputs.cache
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.AssemblyInfo.cs
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.csproj.CoreCompileInputs.cache
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.exe
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.deps.json
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.runtimeconfig.json
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.runtimeconfig.dev.json
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.dll
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\ref\Samples.dll
+C:\Users\vnaw\Source\linqfundamentals\Samples\bin\Debug\net5.0\Samples.pdb
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.dll
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\ref\Samples.dll
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.pdb
+C:\Users\vnaw\Source\linqfundamentals\Samples\obj\Debug\net5.0\Samples.genruntimeconfig.cache
