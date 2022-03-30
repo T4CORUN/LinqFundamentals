@@ -1,2 +1,8 @@
-/bin/*
-/obj/*
+/LinqIntroduction/bin/*
+/LinqIntrouction/obj/*
+
+/Queries/bin/*
+/Queries/obj/*
+
+/Samples/bin/*
+/Samples/obj/*

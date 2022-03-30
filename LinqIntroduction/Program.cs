@@ -42,6 +42,8 @@ namespace linqintroduction
             {
                 FileInfo file = files[i];
                 Console.WriteLine($"{file.Name, -20} : {file.Length, 10:N0}");
+
+                Console.WriteLine();
             }
         }
 	}
