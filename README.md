@@ -2,6 +2,7 @@
 
 - [LINQ Fundamentals - Pluralsight](https://app.pluralsight.com/library/courses/linq-fundamentals-csharp-6/table-of-contents)
 - 4 hr 23 min
+- I forgot the degreed said modules 6,7,8 are optional. I did more than half of section 6, stopping towards the end of the group by part
 
 ## Description
 

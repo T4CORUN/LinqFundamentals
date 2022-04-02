@@ -196,6 +196,9 @@ namespace DataSource
                 //results.Count() is the number of items per the Key
                 //Console.WriteLine($"{result.Key} has {result.Count()} cars");
             }
+
+
+            //The section 6,7,8 is optional. so I didn't have to learn all the group by stuff. But I use this shit all the time so its good to know
             
         }
 
