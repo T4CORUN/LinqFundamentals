@@ -6,3 +6,6 @@
 
 /Samples/bin/*
 /Samples/obj/*
+
+/DataSource/obj/*
+/DataSource/bin/*
